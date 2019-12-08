@@ -12,3 +12,8 @@ print("Goodbye, World!")
 
 Zobacz instrukcje MARKDOWN:
 [Markdown instrukcja - zobacz]: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+GitHub supports emoji!:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
+
+
+
